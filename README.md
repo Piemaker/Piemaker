@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Piemaker
+- 👋 Hi, I’m Omar Sayed
 - 👀 I’m interested in Web Development and all tech related stuff.
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently learning Full stack development
 - 📫 How to reach me omarsayed1900@gmail.com
 
 <!---
